@@ -1,0 +1,557 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Antikythera Mechanism THE Mechanical Realm Flat Earth Documentary",
+      "description": "Exploring the ancient Antikythera mechanism and its implications for understanding lost technology and history.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/Antikythera-mechanism-the-Mechanical-Realm-Flat-Earth-Documentary.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/Antikythera-mechanism-the-Mechanical-Realm-Flat-Earth-Documentary.jpg",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "ancient technology",
+        "history",
+        "documentary"
+      ],
+      "duration": 59886,
+      "featured": true,
+      "view_count": 2900,
+      "created_at": "2025-06-24T18:11:25+00:00",
+      "seo_keywords": "ancient technology, history, documentary",
+      "file_size_mb": 1330.81
+    },
+    {
+      "id": "2",
+      "title": "Water Bubbles IN Space",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/water-bubbles-in-space.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/water-bubbles-in-space.jpg",
+      "category_id": "featured",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 42368,
+      "featured": true,
+      "view_count": 2800,
+      "created_at": "2025-07-09T23:19:03+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 941.52
+    },
+    {
+      "id": "3",
+      "title": "Heliosorcery 2022 Exposing Occult Origins Heliocentrism Documentary",
+      "description": "Documentary investigating the origins of heliocentric theory and challenging mainstream astronomical narratives.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/heliosorcery-2022-exposing-occult-origins-heliocentrism-documentary.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/heliosorcery-2022-exposing-occult-origins-heliocentrism-documentary.jpg",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "heliocentrism",
+        "astronomy",
+        "investigation"
+      ],
+      "duration": 37772,
+      "featured": true,
+      "view_count": 2700,
+      "created_at": "2025-04-24T22:55:27+00:00",
+      "seo_keywords": "heliocentrism, astronomy, investigation",
+      "file_size_mb": 839.38
+    },
+    {
+      "id": "4",
+      "title": "THE Next Level 2022 Hibbler Productions",
+      "description": "Evidence-based exploration of alternative Earth models and scientific analysis.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/the-next-level-2022-hibbler-productions.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/the-next-level-2022-hibbler-productions.jpg",
+      "category_id": "educational",
+      "tags": [
+        "flat earth research",
+        "science",
+        "evidence",
+        "investigation"
+      ],
+      "duration": 16091,
+      "featured": true,
+      "view_count": 2600,
+      "created_at": "2025-04-24T22:58:15+00:00",
+      "seo_keywords": "science, evidence, investigation",
+      "file_size_mb": 357.58
+    },
+    {
+      "id": "5",
+      "title": "Lost History OF Flat Earth Part 5",
+      "description": "Historical research uncovering alternative perspectives on Earth and cosmology through the ages.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%205%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%205%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "history",
+        "research",
+        "cosmology"
+      ],
+      "duration": 13174,
+      "featured": true,
+      "view_count": 2500,
+      "created_at": "2025-06-23T03:07:19+00:00",
+      "seo_keywords": "history, research, cosmology",
+      "file_size_mb": 292.77
+    },
+    {
+      "id": "6",
+      "title": "Lost History OF Flat Earth Part 4",
+      "description": "Historical research uncovering alternative perspectives on Earth and cosmology through the ages.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%204%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%204%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "history",
+        "research",
+        "cosmology"
+      ],
+      "duration": 11706,
+      "featured": true,
+      "view_count": 2400,
+      "created_at": "2025-06-23T03:07:12+00:00",
+      "seo_keywords": "history, research, cosmology",
+      "file_size_mb": 260.14
+    },
+    {
+      "id": "7",
+      "title": "Epic Deception Flat Earth Documentary",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/epic-deception-flat-earth-documentary%EF%B8%8F.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/epic-deception-flat-earth-documentary%EF%B8%8F.jpg",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 8445,
+      "featured": false,
+      "view_count": 2300,
+      "created_at": "2025-04-24T22:00:25+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 187.67
+    },
+    {
+      "id": "8",
+      "title": "Lost History OF Flat Earth Part 6",
+      "description": "Historical research uncovering alternative perspectives on Earth and cosmology through the ages.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%206%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%206%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "history",
+        "research",
+        "cosmology"
+      ],
+      "duration": 8355,
+      "featured": false,
+      "view_count": 2200,
+      "created_at": "2025-06-23T03:07:26+00:00",
+      "seo_keywords": "history, research, cosmology",
+      "file_size_mb": 185.67
+    },
+    {
+      "id": "9",
+      "title": "WHY ON Earth Would Anyone Trust NASA",
+      "description": "Critical examination of space agency claims and evidence.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/why-on-earth-would-anyone-trust-nasa.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/Why-On-Earth-Would-Anyone-Trust-NASA.jpg",
+      "category_id": "featured",
+      "tags": [
+        "flat earth research",
+        "space agencies",
+        "investigation",
+        "evidence"
+      ],
+      "duration": 8251,
+      "featured": false,
+      "view_count": 2100,
+      "created_at": "2025-04-24T22:29:15+00:00",
+      "seo_keywords": "space agencies, investigation, evidence",
+      "file_size_mb": 183.36
+    },
+    {
+      "id": "10",
+      "title": "Lost History OF Flat Earth Part 7",
+      "description": "Historical research uncovering alternative perspectives on Earth and cosmology through the ages.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%207%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%207%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "history",
+        "research",
+        "cosmology"
+      ],
+      "duration": 8184,
+      "featured": false,
+      "view_count": 2000,
+      "created_at": "2025-06-23T03:07:30+00:00",
+      "seo_keywords": "history, research, cosmology",
+      "file_size_mb": 181.88
+    },
+    {
+      "id": "11",
+      "title": "Level 2021 Flat Earth Documentary",
+      "description": "Evidence-based exploration of alternative Earth models and scientific analysis.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/level-2021-flat-earth-documentary.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/level-2021-flat-earth-documentary.jpg",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "science",
+        "evidence",
+        "investigation"
+      ],
+      "duration": 7402,
+      "featured": false,
+      "view_count": 1900,
+      "created_at": "2025-04-24T22:01:57+00:00",
+      "seo_keywords": "science, evidence, investigation",
+      "file_size_mb": 164.51
+    },
+    {
+      "id": "12",
+      "title": "Flat Earth Video 57 Smooth Criminal",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/flat-earth-video-57-smooth-criminal.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/flat-earth-video-57-smooth-criminal.jpg",
+      "category_id": "featured",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 7064,
+      "featured": false,
+      "view_count": 1800,
+      "created_at": "2025-07-09T23:15:05+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 156.99
+    },
+    {
+      "id": "13",
+      "title": "Lost History OF Flat Earth Part 1,2",
+      "description": "Historical research uncovering alternative perspectives on Earth and cosmology through the ages.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%201%2C2%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/Lost%20history%20of%20flat%20earth%20part%201%2C2%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "history",
+        "research",
+        "cosmology"
+      ],
+      "duration": 6999,
+      "featured": false,
+      "view_count": 1700,
+      "created_at": "2025-06-23T03:07:08+00:00",
+      "seo_keywords": "history, research, cosmology",
+      "file_size_mb": 155.55
+    },
+    {
+      "id": "14",
+      "title": "Level With ME 2023",
+      "description": "Evidence-based exploration of alternative Earth models and scientific analysis.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/level-with-me-2023.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/level-with-me-2023.jpg",
+      "category_id": "educational",
+      "tags": [
+        "flat earth research",
+        "science",
+        "evidence",
+        "investigation"
+      ],
+      "duration": 6363,
+      "featured": false,
+      "view_count": 1600,
+      "created_at": "2025-04-24T20:48:19+00:00",
+      "seo_keywords": "science, evidence, investigation",
+      "file_size_mb": 141.4
+    },
+    {
+      "id": "15",
+      "title": "What ON Earth Happened ? Part 13",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%2013%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%2013%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 5136,
+      "featured": false,
+      "view_count": 1500,
+      "created_at": "2025-06-23T03:07:40+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 114.15
+    },
+    {
+      "id": "16",
+      "title": "Lost History OF Flat Earth Part 3",
+      "description": "Historical research uncovering alternative perspectives on Earth and cosmology through the ages.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/lost%20history%20of%20flat%20earth%20part%203%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/lost%20history%20of%20flat%20earth%20part%203%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "history",
+        "research",
+        "cosmology"
+      ],
+      "duration": 4557,
+      "featured": false,
+      "view_count": 1400,
+      "created_at": "2025-06-23T03:07:52+00:00",
+      "seo_keywords": "history, research, cosmology",
+      "file_size_mb": 101.27
+    },
+    {
+      "id": "17",
+      "title": "What ON Earth Happened ? Part 8",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%208%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%208%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 4415,
+      "featured": false,
+      "view_count": 1300,
+      "created_at": "2025-06-23T03:07:48+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 98.12
+    },
+    {
+      "id": "18",
+      "title": "What ON Earth Happened ? Part 10",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%2010%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%2010%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 4230,
+      "featured": false,
+      "view_count": 1200,
+      "created_at": "2025-06-23T03:07:36+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 94.01
+    },
+    {
+      "id": "19",
+      "title": "What ON Earth Happened ? Part 7",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%207%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%207%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 3850,
+      "featured": false,
+      "view_count": 1100,
+      "created_at": "2025-06-23T03:07:46+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 85.57
+    },
+    {
+      "id": "20",
+      "title": "What ON Earth Happened ? Part 9",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%209%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%209%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 3318,
+      "featured": false,
+      "view_count": 1000,
+      "created_at": "2025-06-23T03:07:50+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 73.74
+    },
+    {
+      "id": "21",
+      "title": "DO WE Really Live ON A Globe",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/do-we-really-live-on-a-globe.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/do-we-live-on-globe-fittest-flat-earther.jpg",
+      "category_id": "featured",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 3122,
+      "featured": false,
+      "view_count": 900,
+      "created_at": "2025-06-24T17:42:10+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 69.39
+    },
+    {
+      "id": "22",
+      "title": "What ON Earth Happened ? Part 11",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%2011%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%2011%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 3108,
+      "featured": false,
+      "view_count": 800,
+      "created_at": "2025-06-23T03:07:38+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 69.08
+    },
+    {
+      "id": "23",
+      "title": "What ON Earth Happened ? Part 2",
+      "description": "Educational content exploring alternative perspectives and research methodologies.",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%202%20Eng%E2%A7%B8PL.mp4",
+      "thumbnail_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%202%20Eng%E2%A7%B8PL.png",
+      "category_id": "documentaries",
+      "tags": [
+        "flat earth research",
+        "education",
+        "research",
+        "theory"
+      ],
+      "duration": 2601,
+      "featured": false,
+      "view_count": 700,
+      "created_at": "2025-06-23T03:07:43+00:00",
+      "seo_keywords": "education, research, theory",
+      "file_size_mb": 57.8
+    }
+  ],
+  "commercials": [
+    {
+      "id": "intro_1",
+      "title": "Fechannel Intro 1",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/FEChannel-intro-1.mp4",
+      "duration": 105,
+      "type": "intro",
+      "file_size_mb": 10.5
+    },
+    {
+      "id": "intro_2",
+      "title": "Fechannel Intro 2",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/FEChannel-intro-2.mp4",
+      "duration": 168,
+      "type": "intro",
+      "file_size_mb": 16.84
+    },
+    {
+      "id": "intro_3",
+      "title": "Fechannel Intro 3",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/FEChannel-intro-3.mp4",
+      "duration": 193,
+      "type": "intro",
+      "file_size_mb": 19.33
+    },
+    {
+      "id": "intro_4",
+      "title": "Fechannel Intro 4",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/FEChannel-intro-4.mp4",
+      "duration": 183,
+      "type": "intro",
+      "file_size_mb": 18.31
+    },
+    {
+      "id": "intro_5",
+      "title": "What ON Eart Happened ? Part 5",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Eart%20happened%20%EF%BC%9F%20Part%205%20Eng%E2%A7%B8PL.mp4",
+      "duration": 333,
+      "type": "bumper",
+      "file_size_mb": 33.32
+    },
+    {
+      "id": "intro_6",
+      "title": "What ON Earth Happened ? Part 1",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20Happened%20%EF%BC%9F%20Part%201%20Eng%E2%A7%B8PL.mp4",
+      "duration": 109,
+      "type": "bumper",
+      "file_size_mb": 10.98
+    },
+    {
+      "id": "intro_7",
+      "title": "What ON Earth Happened Part 4",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20part%204%20Eng%E2%A7%B8PL.mp4",
+      "duration": 446,
+      "type": "bumper",
+      "file_size_mb": 44.6
+    },
+    {
+      "id": "intro_8",
+      "title": "What ON Earth Happened ? Part 3",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%203%20Eng%E2%A7%B8PL.mp4",
+      "duration": 387,
+      "type": "bumper",
+      "file_size_mb": 38.76
+    },
+    {
+      "id": "intro_9",
+      "title": "What ON Earth Happened ? Part 6",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/bulk-upload/What%20on%20Earth%20happened%20%EF%BC%9F%20Part%206%20Eng%E2%A7%B8PL.mp4",
+      "duration": 376,
+      "type": "bumper",
+      "file_size_mb": 37.68
+    },
+    {
+      "id": "intro_10",
+      "title": "Flat Earth Channel Hold",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/flat-earth-channel-hold.mp4",
+      "duration": 168,
+      "type": "bumper",
+      "file_size_mb": 16.84
+    },
+    {
+      "id": "intro_11",
+      "title": "PI IN THE SKY ON Flat Earth",
+      "video_url": "https://fechannel-videos.s3.us-east-1.amazonaws.com/pi-in-the-sky-on-flat-earth.mp4",
+      "duration": 116,
+      "type": "bumper",
+      "file_size_mb": 11.68
+    }
+  ],
+  "updated": "2025-07-11T00:15:34Z",
+  "total_videos": 23,
+  "total_commercials": 11
+}
