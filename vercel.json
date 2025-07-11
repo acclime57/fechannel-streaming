@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "name": "fechannel-streaming",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/roku-feed.json",
+      "dest": "/roku-feed.json",
+      "headers": {
+        "content-type": "application/json",
+        "cache-control": "s-maxage=60"
+      }
+    },
+    {
+      "src": "/data/(.*)",
+      "dest": "/data/$1",
+      "headers": {
+        "content-type": "application/json",
+        "cache-control": "s-maxage=300"
+      }
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "cache-control",
+          "value": "s-maxage=31536000"
+        }
+      ]
+    }
+  ]
+}
