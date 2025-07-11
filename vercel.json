@@ -1,44 +1,25 @@
 {
-  "version": 2,
-  "name": "fechannel-streaming",
-  "builds": [
+  "rewrites": [
     {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/roku-feed.json",
-      "dest": "/roku-feed.json",
-      "headers": {
-        "content-type": "application/json",
-        "cache-control": "s-maxage=60"
-      }
-    },
-    {
-      "src": "/data/(.*)",
-      "dest": "/data/$1",
-      "headers": {
-        "content-type": "application/json",
-        "cache-control": "s-maxage=300"
-      }
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ],
   "headers": [
     {
-      "source": "/images/(.*)",
+      "source": "/api/(.*)",
       "headers": [
         {
-          "key": "cache-control",
-          "value": "s-maxage=31536000"
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Access-Control-Allow-Methods",
+          "value": "GET, POST, PUT, DELETE, OPTIONS"
+        },
+        {
+          "key": "Access-Control-Allow-Headers",
+          "value": "Content-Type, Authorization"
         }
       ]
     }
