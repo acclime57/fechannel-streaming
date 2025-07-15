@@ -1,0 +1,35 @@
+{
+  "name": "fechannel",
+  "version": 2,
+  "alias": ["fechannel.com", "www.fechannel.com"],
+  "functions": {
+    "api/**/*.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "routes": [
+    {
+      "src": "/dashboard/(.*)",
+      "dest": "/"
+    },
+    {
+      "src": "/admin/(.*)",
+      "dest": "/"
+    },
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
+  ]
+}
