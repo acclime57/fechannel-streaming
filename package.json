@@ -1,0 +1,35 @@
+{
+  "name": "fechannel",
+  "version": "1.0.0",
+  "description": "FEChannel.com - Professional Netflix-style streaming platform with integrated admin dashboard",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "vercel deploy --prod --name fechannel",
+    "deploy-with-domain": "bash deploy-to-fechannel.sh",
+    "setup-domains": "vercel domains add fechannel.com fechannel && vercel domains add www.fechannel.com fechannel"
+  },
+  "keywords": [
+    "streaming",
+    "video",
+    "netflix",
+    "admin",
+    "dashboard",
+    "aws-s3",
+    "roku",
+    "analytics"
+  ],
+  "author": "FEChannel.com",
+  "license": "MIT",
+  "homepage": "https://fechannel.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fechannel/streaming-platform"
+  },
+  "vercel": {
+    "name": "fechannel",
+    "domains": [
+      "fechannel.com",
+      "www.fechannel.com"
+    ]
+  }
+}
