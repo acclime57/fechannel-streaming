@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": "featured",
+      "name": "Featured",
+      "description": "Featured and highlighted content",
+      "display_order": 0
+    },
+    {
+      "id": "documentaries",
+      "name": "Documentaries",
+      "description": "Full-length documentary videos",
+      "display_order": 1
+    },
+    {
+      "id": "interviews",
+      "name": "Interviews",
+      "description": "Interview content and discussions",
+      "display_order": 2
+    },
+    {
+      "id": "educational",
+      "name": "Educational",
+      "description": "Educational and informational content",
+      "display_order": 3
+    }
+  ]
+}
